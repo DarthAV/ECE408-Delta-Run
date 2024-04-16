@@ -8,9 +8,15 @@
 
 ## About
 
+
+
 This repository contains the code for the ECE408 Delta Run project. The provided bash script `delta_run.sh` defines functions that can be used to automate the process of compiling, submitting, and running the jobs on Delta. Here is a short video demontrating the usage of the script:
 
-[![asciicast](https://asciinema.org/a/4)](https://asciinema.org/a/)
+[![asciicast](
+https://github.com/DarthAV/ECE408-Delta-Run/assets/29022142/07aaab99-e85a-44b9-afac-02efb700a692
+)](
+https://github.com/DarthAV/ECE408-Delta-Run/assets/29022142/07aaab99-e85a-44b9-afac-02efb700a692
+)
 
 I have only tested this script on the UIUC Delta GPU cluster with ECE 408 in Spring 2024. If the course or the cluster changes, the script may not work as intended.
 
